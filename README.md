@@ -22,7 +22,7 @@ Job Hunt is an online job portal for Kezan Consultancy. The portal acts as an in
 
 ## Screenshots
 
-![App Screenshot](C:\Users\imyas\Downloads\readme image\Screenshot 2024-05-20 201555.png)
+![Screenshot 2024-05-20 201555](https://github.com/user-attachments/assets/76cf79a6-5131-4783-b75d-ffcae212b828)
 
 
 ## Tech Stack
