@@ -70,7 +70,7 @@ py -3 -m venv .venv
 
 **Step5**: Run Terminal: Create New Terminal (Ctrl+Shift+`) from the Command Palette, which creates a terminal and automatically activates the virtual environment by running its activation script.
 
-**Step6**: pdate pip in the virtual environment by running the following command in the VS Code Terminal:
+**Step6**: Update pip in the virtual environment by running the following command in the VS Code Terminal:
 
 ```bash
 python -m pip install --upgrade pip
